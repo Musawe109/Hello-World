@@ -1,0 +1,2 @@
+let message = "hello Jan Kesy Hu!";
+console.log(message);
